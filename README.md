@@ -1,3 +1,4 @@
+- This account is associateed with https://github.com/afraeim
 - 👋 Hi, I’m @zero1shell
 - 👀 I’m interested in space cybersecurity
 - 🌱 I’m currently learning networkintercepting 
